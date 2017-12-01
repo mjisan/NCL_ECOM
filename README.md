@@ -1,2 +1,2 @@
-# NCL_NYHOPS
-Post-processing scripts for processing ECOM outputs.  
+# NCL Scripts for ECOM
+Post-processing scripts for ECOM outputs.  
